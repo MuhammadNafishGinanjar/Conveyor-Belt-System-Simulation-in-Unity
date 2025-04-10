@@ -2,6 +2,8 @@
 
 A simple conveyor belt simulation built with Unity, featuring object spawning, adjustable conveyor speed, and start/stop control. This project is ideal for demonstrating basic automation concepts or prototyping low-poly factory environments.
 
+**Note**: This project has not yet been implemented with Arduino integration.
+
 ## 🎮 Key Features
 
 - 🧱 **Spawn Objects**  
@@ -32,7 +34,7 @@ A simple conveyor belt simulation built with Unity, featuring object spawning, a
 
 1. Clone this repository:
    ```bash
-   https://github.com/MuhammadNafishGinanjar/Conveyor-Belt-System-Simulation-in-Unity.git
+   git clone https://github.com/MuhammadNafishGinanjar/Conveyor-Belt-System-Simulation-in-Unity.git
 2. Open the project folder in Unity Editor.
 3. Open the main scene:
    ```bash
