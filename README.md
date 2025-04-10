@@ -7,6 +7,9 @@ A simple conveyor belt simulation built with Unity, featuring object spawning, a
 - 🧱 **Spawn Objects**  
   Instantly spawn prefab objects onto the conveyor belt, either manually or automatically.
 
+- 🎨 **Random Color (Green/Red) on Spawn**  
+  Each time an object is spawned, it will randomly be assigned a **green** or **red** color.
+
 - ⏩ **Adjust Conveyor Speed**  
   Easily control the conveyor's speed (fast/slow) through scripts or parameters.
 
@@ -52,3 +55,5 @@ To export or build the project:
 3. Click "Add Open Scenes", then hit "Build"
 
 ## 📸 Screenshots
+![Conveyor Belt](https://i.imgur.com/KDltA14.png)
+
