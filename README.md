@@ -32,7 +32,7 @@ A simple conveyor belt simulation built with Unity, featuring object spawning, a
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/your-repo-name.git
+   https://github.com/MuhammadNafishGinanjar/Conveyor-Belt-System-Simulation-in-Unity.git
 2. Open the project folder in Unity Editor.
 3. Open the main scene:
    ```bash
